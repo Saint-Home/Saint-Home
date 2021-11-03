@@ -9,7 +9,7 @@
 
 
 <h3>:computer:</h3> Languages and Tools :
-<p align="center">
+<p align="center-left">
 <!-- C badge --><img src="https://img.shields.io/badge/C-00599C??style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <!-- C ++ badge --><img src="https://img.shields.io/badge/C++-00599C??style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
