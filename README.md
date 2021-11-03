@@ -10,10 +10,6 @@
 
 ## 👋 Welcome👋
 
-설명
-- 1
-- 2
-- 3
 
 <h3 align="center"><b>💻 Languages and Tools 💻</b></h3>
 </br>
@@ -42,7 +38,7 @@
 <!-- Gitea -->        <img src="https://img.shields.io/badge/Github-609926?style=flat-square&logo=Gitea&logoColor=white">
 <!-- GitLab -->       <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white">
 <!-- Jira -->       <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"><p/>
-
+<hr>
 
 ## Navigation
 * 1
