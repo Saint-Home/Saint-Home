@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### **Hi there** 👋
 
 <!--
 <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
@@ -8,8 +7,9 @@
 -->
 
 
+
+<p align="center">
 <h3>:computer:</h3> Languages and Tools :
-<p align="center-left">
 <!-- C badge --><img src="https://img.shields.io/badge/C-00599C??style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <!-- C ++ badge --><img src="https://img.shields.io/badge/C++-00599C??style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
