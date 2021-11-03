@@ -5,6 +5,8 @@ https://img.shields.io/badge/-Python-39457E?style=flat&logo=Python
 
 <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
 
+https://img.shields.io/static/v1?label=TEST&message=TEST2&color=CC0000
+
 <!--
 **Saint-Home/Saint-Home** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
