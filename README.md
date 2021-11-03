@@ -10,7 +10,7 @@
 
 
 <!-- C -->
-<img src="https://img.shields.io/badge/C-CC0000??style=social&logo=CNN&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/CC0000??style=social&logo=CNN&logoColor=00FF00"/>
 
 <img src="https://img.shields.io/static/v1?label=TEST&message=TEST2&color=CC0000"/>
 <img src="https://img.shields.io/static/v1?label=TEST&message=TEST2&color=CCCC00"/>
