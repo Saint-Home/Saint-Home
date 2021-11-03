@@ -10,7 +10,8 @@
 
 
 Languages and Tools:
-<!-- C badge --><img src="https://img.shields.io/badge/C-00599C??style=flat-square&logo=C%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C??style=flat-square&logo=C%2B%2B&logoColor=white"/>
+<!-- C badge --><img src="https://img.shields.io/badge/C-00599C??style=flat-square&logo=C%2B%2B&logoColor=white"/>
+<!-- C ++ badge --><img src="https://img.shields.io/badge/C++-00599C??style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
 <img src="https://img.shields.io/static/v1?label=TEST&message=TEST2&color=CC0000"/>
 <img src="https://img.shields.io/static/v1?label=TEST&message=TEST2&color=CCCC00"/>
