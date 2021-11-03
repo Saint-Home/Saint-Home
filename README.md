@@ -8,7 +8,7 @@
 -->
 
 
-
+<p align="center">
 Languages and Tools:
 <!-- C badge --><img src="https://img.shields.io/badge/C-00599C??style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <!-- C ++ badge --><img src="https://img.shields.io/badge/C++-00599C??style=flat-square&logo=C%2B%2B&logoColor=white"/>
